@@ -3,7 +3,7 @@ package com.myproject.kotlindemo.kotlin.http
 import com.github.kittinunf.fuel.Fuel
 
 /**
- * Created by Master on 3/10/16.
+ * Created by Jemo on 3/10/16.
  */
 class KotlinHTTP {
 
