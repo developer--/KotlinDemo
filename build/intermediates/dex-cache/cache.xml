@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Master/KotlinDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/Master/KotlinDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_b36fbfdfce978ab5e1ede9689afae0ca6e5ecf23.jar" />
+    </item>
+    <item
+        jar="/Users/Master/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.0/2db5ac6eb2746708e77e4c439625f9331c25e766/kotlin-stdlib-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2db5ac6eb2746708e77e4c439625f9331c25e766">
+        <dex dex="/Users/Master/KotlinDemo/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.0.0_e09e6791c665973fe65cc4a28de1bd9fd9385fbf.jar" />
+    </item>
+    <item
+        jar="/Users/Master/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/Master/KotlinDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_ca1f0fd8b46747ae81e68a8e9b998c26a7ea64ab.jar" />
+    </item>
+    <item
+        jar="/Users/Master/KotlinDemo/app/build/intermediates/exploded-aar/com.github.kittinunf.fuel/fuel-android/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cfa17d2f4af1670c04ed3d287a9e83b910126b34">
+        <dex dex="/Users/Master/KotlinDemo/app/build/intermediates/pre-dexed/debug/com.github.kittinunf.fuel-fuel-android-1.1.0_599d95789d6b44f5386dd053f09dcd2119ea1016.jar" />
+    </item>
+    <item
+        jar="/Users/Master/KotlinDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/Master/KotlinDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_6848fe18539ebb6cb82fb3a32a0c3a62acdc752a.jar" />
+    </item>
+    <item
+        jar="/Users/Master/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.0/8739b3cd3bf98584cf2d1cabf59b55dbd5f7349d/kotlin-runtime-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8739b3cd3bf98584cf2d1cabf59b55dbd5f7349d">
+        <dex dex="/Users/Master/KotlinDemo/app/build/intermediates/pre-dexed/debug/kotlin-runtime-1.0.0_6266009d4f3acc99ebfe60137c42cca2cab63927.jar" />
+    </item>
+    <item
+        jar="/Users/Master/.gradle/caches/modules-2/files-2.1/com.github.kittinunf.fuel/fuel/1.1.0/55fd82500b139ef26b7bc8dd7c47c7e8f30757b5/fuel-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="55fd82500b139ef26b7bc8dd7c47c7e8f30757b5">
+        <dex dex="/Users/Master/KotlinDemo/app/build/intermediates/pre-dexed/debug/fuel-1.1.0_903a026c1b6aa14ae1940ed93d928cb236199877.jar" />
+    </item>
+    <item
+        jar="/Users/Master/KotlinDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/Master/KotlinDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_c556c2d36cf01ae1d1f2908ae4c51b4cb2da9453.jar" />
+    </item>
+    <item
+        jar="/Users/Master/KotlinDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/Master/KotlinDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_d94608929bbda6a37ed59e6e69756dcd1be2fb43.jar" />
+    </item>
+    <item
+        jar="/Users/Master/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.1/b494968f6050d494de55dc3ce005e59c7eb40012/rxjava-1.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b494968f6050d494de55dc3ce005e59c7eb40012">
+        <dex dex="/Users/Master/KotlinDemo/app/build/intermediates/pre-dexed/debug/rxjava-1.1.1_d2b8d627f0c3b80c34d0250dbfc629bedaa4fdb7.jar" />
+    </item>
+    <item
+        jar="/Users/Master/.gradle/caches/modules-2/files-2.1/com.github.kittinunf.fuel/fuel-rxjava/1.1.0/767d6a73189715725d6bc0744c888c03635c626e/fuel-rxjava-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="767d6a73189715725d6bc0744c888c03635c626e">
+        <dex dex="/Users/Master/KotlinDemo/app/build/intermediates/pre-dexed/debug/fuel-rxjava-1.1.0_180ad3511f417ed87861ee6632b75aad87d4abe9.jar" />
+    </item>
+    <item
+        jar="/Users/Master/.gradle/caches/modules-2/files-2.1/com.github.kittinunf.result/result/1.0.0/d67593d56daa171f88ffdeddc5790d0e964381b9/result-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d67593d56daa171f88ffdeddc5790d0e964381b9">
+        <dex dex="/Users/Master/KotlinDemo/app/build/intermediates/pre-dexed/debug/result-1.0.0_fe15a4ccddc576bee2c8a58b282b671bd326f7c1.jar" />
+    </item>
+    <item
+        jar="/Users/Master/KotlinDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/Master/KotlinDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_6dbbde72977646f6e5159bd8051b15a4b4d84ff6.jar" />
+    </item>
+
+</items>
